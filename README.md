@@ -1,13 +1,19 @@
-Grayscale Jekyll theme
-=========================
+# TODO
+
+- Add beautiul countdown. Idea [here](http://a-g-f.github.io/metro-ui-jekyll/documentation/times.html)
+
+# Acknowledgments
+
+Ruby, jekyl, github & the awesome stuff below
+
+## Grayscale Jekyll theme
 
 Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 
-## Demo
+### Demo
 View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
 
-## Screenshot
+### Screenshot
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
 
-=========
 For more details, read the [documentation](http://jekyllrb.com/)
