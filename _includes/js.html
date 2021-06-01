@@ -1,14 +1,33 @@
- <!-- jQuery Version 1.11.0 -->
-    <script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
+<!-- jQuery Version 1.11.0 -->
+<script src="{{ " /js/jquery.js" | prepend: site.baseurl }}"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="{{ " /js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+<!-- Plugin JavaScript -->
+<script src="{{ " /js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/jquery.widget.min.js" | prepend: site.baseurl }}"></script>
 
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="{{ "/js/grayscale.js" | prepend: site.baseurl }}"></script>
+<!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+<script type="text/javascript"
+   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="{{ " /js/grayscale.js" | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/metro.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/metro-countdown.js" | prepend: site.baseurl }}"></script>
+<!-- <script>
+   $("#countdown").countdown({
+      style: {
+         background: 'black', //existing class for digit background color
+         foreground: 'white',  //existing class for digit foreground color
+         divider: 'grey'  //existing class for divider foreground color
+      },
+      blink: false, // blink divider
+      days: 1, // days to alert, set stoptimer to zero, default 1
+      stoptimer: '2021-07-05 12:00', // the string value of datetime, example '2013-07-05 12:00'
+      ontick: function (d, h, m, s) { return },
+      onstop: function () { return }
+   });
+</script> -->
