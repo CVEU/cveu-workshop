@@ -1,0 +1,28 @@
+<!-- Purpose Section -->
+<section id="organizer" class="content-section text-left">
+    <div class="download-section">
+        <div class="container">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2 class="text-center">Organizers</h2>
+                <div class="row">
+                    {% for person in site.organizer %}
+                    <div class="col-lg-3">
+
+                        <div class="person-image">
+                            <img src="{{ person.avatar }}" class="person-avatar" width="80%" height="80%">
+                        </div>
+                        <div class="person-meta">
+                            <span class="person-name"><a href="{{ person.website }}" target="_blank">{{ person.name
+                                    }}</a></span>
+                            <br />
+                            <span class="person-affliation">{{ person.affliation }}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</section>
