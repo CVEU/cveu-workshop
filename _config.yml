@@ -16,8 +16,40 @@ organizer:
     website: "#!"
   - name: Yu Xiong
     affliation: The Chinese University of Hong Kong
-    avatar: http://www.xiongyu.me/src/yu_sq.jpg
+    avatar: /img/avatar/yu_xiong.jpg
     website: http://xiongyu.me
+  - name: Alejandro Pardo
+    affliation: KAUST
+    avatar: https://avatars.githubusercontent.com/u/16939779?v=4
+    website: https://github.com/PardoAlejo
+  - name: Anyi Rao
+    affliation: The Chinese University of Hong Kong
+    avatar: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=8lKr7j4AAAAJ&citpid=3&authuser=1
+    website: https://anyirao.com/
+  - name: Qingqiu Huang
+    affliation: The Chinese University of Hong Kong
+    avatar: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=RIfPt_MAAAAJ&citpid=3
+    website: http://qqhuang.cn/
+  - name: Ali Thabet
+    affliation: KAUST
+    avatar: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=7T0CPEkAAAAJ&citpid=5
+    website: https://www.alithabet.com/
+  - name: Victor Escorcia
+    affliation: Samsung
+    avatar: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=VDrK6cYAAAAJ&citpid=2
+    website: https://escorciav.github.io/
+  - name: Dong Liu
+    affliation: Netflix
+    avatar: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=NvU30c4AAAAJ&citpid=12
+    website: https://scholar.google.com/citations?user=NvU30c4AAAAJ&hl=zh-CN
+  - name: Dahua lin
+    affliation: The Chinese University of Hong Kong
+    avatar: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=GMzzRRUAAAAJ&citpid=3
+    website: http://dahua.site/
+  - name: Bernard Ghanem
+    affliation: KAUST
+    avatar: /img/avatar/bernard.jpg
+    website: http://www.bernardghanem.com/
 
 # Footer settings
 footer: AI for Creative Video Editing and Understanding
