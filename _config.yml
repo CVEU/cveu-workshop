@@ -1,6 +1,7 @@
 # Site settings
 title: CVEU Workshop
-email: cveu.ai@gmail.com
+# email: cveu.ai@gmail.com
+email: cveu_organizers@googlegroups.com
 url: https://cveu.github.io
 description: "ICCV 2021 Workshop on AI for Creative Video Editing and Understanding."
 
