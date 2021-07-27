@@ -57,14 +57,14 @@ speaker:
     affliation: Cornell University
     avatar: /img/avatar/james-e-cutting.jpeg
     website: http://people.psych.cornell.edu/~jec7/index.htm
-  - name: Marc Christie
-    affliation: University of Rennes 1; IRISA/INRIA
-    avatar: /img/avatar/marc-christie.jpeg
-    website: http://people.irisa.fr/Marc.Christie/
   - name: Irfan Essa
     affliation: Georgia Tech; Google
     avatar: /img/avatar/irfan-essa.jpeg
     website: http://www.irfanessa.gatech.edu/
+  - name: Marc Christie
+    affliation: University of Rennes 1; IRISA/INRIA
+    avatar: /img/avatar/marc-christie.jpeg
+    website: http://people.irisa.fr/Marc.Christie/
   - name: Maneesh Agrawala
     affliation: Stanford University
     avatar: http://graphics.stanford.edu/~maneesh/images/agrawala-macarthur3-head-square.jpg
