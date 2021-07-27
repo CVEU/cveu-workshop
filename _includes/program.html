@@ -10,6 +10,35 @@
                 <p>Can AI make humans reduce the cost of video productions?</p>
                 <p>Are there any biases and threads by using AI in this field?</p>
                 <p>Detailed program: TBD</p>
+                <br />
+                <h3>Keynote Speakers</h3>
+                <!-- <hr /> -->
+                <div class="row">
+                    {% for person in site.speaker %}
+                    <div class="col-lg-2">
+
+                        <div class="person-image">
+                            <img src="{{ person.avatar }}" class="person-avatar" width="100%" height="100%">
+                        </div>
+                        <div class="person-meta">
+                            <span class="person-name"><a href="{{ person.website }}" target="_blank">{{ person.name
+                                    }}</a></span>
+                            <br />
+                            <span class="person-affliation">{{ person.affliation }}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <br />
+                <h3>Industry Session</h3>
+                <!-- <hr /> -->
+                <div class="row">
+                    {% for company in site.industry %}
+                    <img class="logo-box" src="{{ company.logo }}" width="auto" height="70px">
+                    {% endfor %}
+                </div>
+
             </div>
         </div>
     </div>
