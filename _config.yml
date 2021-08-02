@@ -53,36 +53,36 @@ organizer:
     website: http://www.bernardghanem.com/
 
 speaker:
-  - name: James E. Cutting
-    affliation: Cornell University
-    avatar: /img/avatar/james-e-cutting.jpeg
-    website: http://people.psych.cornell.edu/~jec7/index.htm
-  - name: Irfan Essa
-    affliation: Georgia Tech; Google
-    avatar: /img/avatar/irfan-essa.jpeg
-    website: http://www.irfanessa.gatech.edu/
-  - name: Marc Christie
-    affliation: University of Rennes 1; IRISA/INRIA
-    avatar: /img/avatar/marc-christie.jpeg
-    website: http://people.irisa.fr/Marc.Christie/
-  - name: Maneesh Agrawala
-    affliation: Stanford University
-    avatar: http://graphics.stanford.edu/~maneesh/images/agrawala-macarthur3-head-square.jpg
-    website: http://graphics.stanford.edu/~maneesh/
   - name: Angjoo Kanazawa
     affliation: UC Berkeley; Google
     avatar: /img/avatar/angjoo.jpeg
     website: http://people.eecs.berkeley.edu/~kanazawa/
+  - name: Irfan Essa
+    affliation: Georgia Tech; Google
+    avatar: /img/avatar/irfan-essa.jpeg
+    website: http://www.irfanessa.gatech.edu/
+  - name: James E. Cutting
+    affliation: Cornell University
+    avatar: /img/avatar/james-e-cutting.jpeg
+    website: http://people.psych.cornell.edu/~jec7/index.htm
+  - name: Maneesh Agrawala
+    affliation: Stanford University
+    avatar: http://graphics.stanford.edu/~maneesh/images/agrawala-macarthur3-head-square.jpg
+    website: http://graphics.stanford.edu/~maneesh/
+  - name: Marc Christie
+    affliation: University of Rennes 1; IRISA/INRIA
+    avatar: /img/avatar/marc-christie.jpeg
+    website: http://people.irisa.fr/Marc.Christie/
 
 industry:
   - name: Adobe
     logo: /img/avatar/adobe.png
-  - name: Netflix
-    logo: /img/avatar/netflix.png
   - name: Facebook
     logo: /img/avatar/facebook.png
   - name: Google
     logo: /img/avatar/google.png
+  - name: Netflix
+    logo: /img/avatar/netflix.png
   - name: Tencent
     logo: /img/avatar/tencent.png
   - name: TikTok (Bytedance)
