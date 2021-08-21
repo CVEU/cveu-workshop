@@ -17,17 +17,8 @@
 <script src="{{ " /js/grayscale.js" | prepend: site.baseurl }}"></script>
 <script src="{{ " /js/metro.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ " /js/metro-countdown.js" | prepend: site.baseurl }}"></script>
-<!-- <script>
-   $("#countdown").countdown({
-      style: {
-         background: 'black', //existing class for digit background color
-         foreground: 'white',  //existing class for digit foreground color
-         divider: 'grey'  //existing class for divider foreground color
-      },
-      blink: false, // blink divider
-      days: 1, // days to alert, set stoptimer to zero, default 1
-      stoptimer: '2021-07-05 12:00', // the string value of datetime, example '2013-07-05 12:00'
-      ontick: function (d, h, m, s) { return },
-      onstop: function () { return }
-   });
-</script> -->
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.min.js"></script>
+<script src="{{ " /js/moment.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/moment-timezone.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/main.js" | prepend: site.baseurl }}"></script>
