@@ -55,7 +55,7 @@ organizer:
 speaker:
   - name: Angjoo Kanazawa
     affliation: UC Berkeley; Google
-    avatar: /img/avatar/angjoo.jpeg
+    avatar: /img/avatar/angjoo_new.png
     website: http://people.eecs.berkeley.edu/~kanazawa/
   - name: Irfan Essa
     affliation: Georgia Tech; Google
@@ -87,6 +87,10 @@ industry:
     logo: /img/avatar/tencent.png
   - name: TikTok (Bytedance)
     logo: /img/avatar/tiktok.png
+  - name: Runway
+    logo: /img/avatar/runway.png
+  - name: Synopsis
+    logo: /img/avatar/synopsis.png
 
 # Footer settings
 footer: AI for Creative Video Editing and Understanding
