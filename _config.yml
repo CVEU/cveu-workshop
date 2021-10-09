@@ -37,7 +37,7 @@ organizer:
     website: https://www.alithabet.com/
   - name: Victor Escorcia
     affliation: Samsung
-    avatar: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=VDrK6cYAAAAJ&citpid=2
+    avatar: /img/avatar/victor.jpeg
     website: https://escorciav.github.io/
   - name: Dong Liu
     affliation: Netflix
@@ -77,10 +77,10 @@ speaker:
 industry:
   - name: Adobe
     logo: /img/avatar/adobe.png
-  - name: Facebook
-    logo: /img/avatar/facebook.png
-  - name: Google
-    logo: /img/avatar/google.png
+  # - name: Facebook
+  #   logo: /img/avatar/facebook.png
+  # - name: Google
+  #   logo: /img/avatar/google.png
   - name: Netflix
     logo: /img/avatar/netflix.png
   - name: Tencent

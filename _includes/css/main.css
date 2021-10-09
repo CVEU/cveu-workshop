@@ -37,3 +37,47 @@ li {
     background: rgba(255, 255, 255, 0.5);;
     background-size: contain;
 }
+
+
+.hl-green {
+    color:yellowgreen
+}
+.hl-green:hover {
+    color:rgb(193, 211, 35)
+}
+.hl-green:focus {
+    color:rgb(193, 211, 35)
+}
+
+.hl-blue {
+    color:rgb(0, 174, 243)
+}
+
+.modal-title {
+    color: black;
+}
+
+.modal-body {
+    color: black;
+    text-align: justify;
+    text-align-last: left;
+    text-justify: inter-ideograph;
+}
+
+#submission #collapseExample.collapse:not(.in) {
+  display: block;
+  height: 3rem;
+  overflow: hidden;
+}
+
+#submission #collapseExample.collapsing {
+  height: 300rem;
+}
+
+#submission #more-btn.collapsed::after {
+  content: '+ Show More';
+}
+
+#submission #more-btn:not(.collapsed)::after {
+  content: '- Show Less';
+}
