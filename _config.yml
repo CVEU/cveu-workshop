@@ -85,8 +85,8 @@ industry:
     logo: /img/avatar/netflix.png
   - name: Tencent
     logo: /img/avatar/tencent.png
-  - name: TikTok (Bytedance)
-    logo: /img/avatar/tiktok.png
+  # - name: TikTok (Bytedance)
+  #   logo: /img/avatar/tiktok.png
   - name: Runway
     logo: /img/avatar/runway.png
   - name: Synopsis
