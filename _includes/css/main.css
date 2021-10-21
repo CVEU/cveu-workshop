@@ -81,3 +81,7 @@ li {
 #submission #more-btn:not(.collapsed)::after {
   content: '- Show Less';
 }
+
+.red {
+    color: red;
+}
